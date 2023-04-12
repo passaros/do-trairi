@@ -1,0 +1,122 @@
+site_name: Regimento interno
+site_author: Condomínio Residencial Pássaros do Trairí
+theme:
+  name: material
+  language: pt
+
+nav:
+  - index.md
+  - Capítulo I:
+
+    - Das disposições preliminares:
+      - artigo-1.md
+      - artigo-2.md
+      - artigo-3.md
+      - artigo-4.md
+      - artigo-5.md
+
+  - Capítulo II:
+
+    - Da administração:
+      - artigo-6.md
+      - artigo-7.md
+      - artigo-8.md
+      - artigo-9.md
+      - artigo-10.md
+      - artigo-11.md
+      - artigo-12.md
+      - artigo-13.md
+      - artigo-14.md
+      - artigo-15.md
+      - artigo-16.md
+      - artigo-17.md
+
+  - Capítulo III:
+    - Dos horários:
+      - artigo-18.md
+      - artigo-19.md
+      - artigo-20.md
+      - artigo-21.md
+
+    - Do uso das partes comuns:
+      - artigo-22.md
+
+    - Das garagens e áreas de circulação de veículos:
+      - artigo-23.md
+    
+    - Do playground:
+      - artigo-24.md
+      - artigo-25.md
+      - artigo-26.md
+
+    - Do salão de festas e churrasqueira:
+      - artigo-27.md
+      - artigo-28.md
+      - artigo-29.md
+      - artigo-30.md
+      - artigo-31.md
+      - artigo-32.md
+      - artigo-33.md
+      - artigo-34.md
+      - artigo-35.md
+      - artigo-36.md
+      - artigo-37.md
+      - artigo-38.md
+      - artigo-39.md
+      - artigo-40.md
+      - artigo-41.md
+      - artigo-42.md
+
+    - Da piscina:
+      - artigo-43.md
+      - artigo-44.md
+      - artigo-45.md
+
+    - Do acondicionamento e coleta de lixo:
+      - artigo-46.md
+      - artigo-47.md
+      - artigo-48.md
+
+    - Da segurança:
+      - artigo-49.md
+
+    - Da indenização por danos causados:
+      - artigo-50.md
+      - artigo-51.md
+
+  - Capítulo IV:
+
+    - Do uso privativo do apartamento:
+      - artigo-52.md
+      - artigo-53.md
+      - artigo-54.md
+
+    - Dos animais domésticos:
+      - artigo-55.md
+      - artigo-56.md
+      - artigo-57.md
+
+    - Das mudanças e reformas:
+      - artigo-58.md
+      - artigo-59.md
+      - artigo-60.md
+      - artigo-61.md
+
+  - Capítulo V:
+
+    - Das penalidades:
+      - artigo-62.md
+
+
+  - Capítulo VI:
+
+    - Das disposições finais:
+      - artigo-63.md
+      - artigo-64.md
+      - artigo-65.md
+
+  - Capítulo VII:
+
+    - Do foro:
+
+      - artigo-66.md
